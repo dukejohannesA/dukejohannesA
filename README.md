@@ -10,7 +10,9 @@
 
 - 💬 Ask me about anything related to Embedded systems and Data science
 
-- 📫 How to reach me: alfredchicco@gmail.com // +264 81 236 5554 (whatsApp)
+- 📫 How to reach me: alfredchicco@gmail.com
+
+- https://dukejohannesa.github.io/Portfolio/#home
 
 
 # 💻 Tech Stack:
