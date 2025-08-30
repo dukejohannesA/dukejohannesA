@@ -1,6 +1,6 @@
 ## Hi, I am Johannes Alfred(o)
 
-- 🔭 I’m currently working on ... Software Dev. + Data Science + Electronincs Systems Dev. <br/>
+- 🔭 I’m currently working on ... <br> Electronics Design & Dev. + Data Science + Software Design Dev. <br/>
 
 - 🌱 I’m currently learning ... Embedded systems, telecommunications, data science and ML applications 
 
