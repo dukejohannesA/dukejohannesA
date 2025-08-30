@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with finding a community with like minded people in tech, Africa and global
 
 - 💬 Ask me about anything related to Electronics systems and Data science
-
+- https://linktr.ee/meetJohannesAlfred
 - https://dukejohannesa.github.io/Portfolio/#home
 
 
