@@ -1,16 +1,14 @@
 ## Hi, I am Johannes Alfred(o)
 
-- 🔭 I’m currently working on ... Embedded systems, telecommunications, data science and ML <br/>
+- 🔭 I’m currently working on ... Software Dev. + Data Science + Electronincs Systems Dev. <br/>
 
 - 🌱 I’m currently learning ... Embedded systems, telecommunications, data science and ML applications 
 
-- 👯 I’m looking to collaborate on machine learning, data science and Embedded system projects
+- 👯 I’m looking to collaborate on ML and Electronics systems projects
 
 - 🤔 I’m looking for help with finding a community with like minded people in tech, Africa and global
 
-- 💬 Ask me about anything related to Embedded systems and Data science
-
-- 📫 How to reach me: alfredchicco@gmail.com
+- 💬 Ask me about anything related to Electronics systems and Data science
 
 - https://dukejohannesa.github.io/Portfolio/#home
 
